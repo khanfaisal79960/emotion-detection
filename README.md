@@ -6,7 +6,7 @@
 
 <h2>🚀 Demo</h2>
 
-[emotion-detection.replit.app](emotion-detection.replit.app)
+[https://emotion-detection.replit.app](https://emotion-detection.replit.app)
 
 <h2>Project Screenshots:</h2>
 
