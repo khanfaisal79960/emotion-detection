@@ -15,7 +15,7 @@
 <img src="https://i.ibb.co/8bD6wCd/Screenshot-2024-03-09-153919.png" alt="project-screenshot" width="640" height="400/">
 <p>Streamlit Demo</p>
 
-<img src="https://i.ibb.co/zG9DxSZ/Screenshot-2024-03-09-154734.png" alt="project-screenshot" width="640" height="400/">
+<img src="https://i.ibb.co/zG9DxSZ/Screenshot-2024-03-09-154734.png" alt="project-screenshot" width="640" height="400">
 
 <img src="https://i.ibb.co/HDTYNpQ/Screenshot-2024-03-09-154802.png" alt="project-screenshot" width="640" height="400">
 <p>Flask Demo</p>
