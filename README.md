@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://socialify.git.ci/khanfaisal79960/emotion-detection/image?description=1&amp;descriptionEditable=Unveiling%20Emotions%20Through%20Image%20Analysis&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Circuit%20Board&amp;theme=Light" alt="project-image"></p>
 
-<p id="description">Explore the fascinating realm of Emotion Detection in Images where cutting-edge technology and deep learning converge to decipher the nuanced expressions captured within pixels. Our project delves into the intricacies of image analysis unveiling the hidden emotions that lie beneath the surface. Through advanced algorithms and artificial intelligence we aim to decode the subtle cues and facial expressions providing a glimpse into the emotional landscapes depicted in visual content. Join us on this journey as we bridge the gap between technology and human emotion unlocking new possibilities for understanding and interpreting the visual language of feelings.</p>
+<p id="description">The Emotion Detection in Images project focuses on developing a machine learning model capable of accurately identifying and classifying emotions depicted in images. By leveraging computer vision techniques and deep learning algorithms, this project aims to provide insights into the emotional states of individuals captured in images, which can have applications in various fields such as psychology, marketing, and human-computer interaction.</p>
 
 <h2>🚀 Demo</h2>
 
@@ -17,7 +17,7 @@
 
 <img src="https://i.ibb.co/zG9DxSZ/Screenshot-2024-03-09-154734.png" alt="project-screenshot" width="640" height="400/">
 
-<img src="https://i.ibb.co/HDTYNpQ/Screenshot-2024-03-09-154802.png" alt="project-screenshot" width="640" height="400/">
+<img src="https://i.ibb.co/HDTYNpQ/Screenshot-2024-03-09-154802.png" alt="project-screenshot" width="640" height="400">
 <p>Flask Demo</p>
   
   
