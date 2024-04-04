@@ -17,7 +17,7 @@
 
 <img src="https://i.ibb.co/zG9DxSZ/Screenshot-2024-03-09-154734.png" alt="project-screenshot" width="640" height="400">
 
-<img src="https://i.ibb.co/HDTYNpQ/Screenshot-2024-03-09-154802.png" alt="project-screenshot" width="640" height="400">
+<img src="https://i.ibb.co/rx7ZSvd/Screenshot-2024-03-09-154802.png" alt="project-screenshot" width="640" height="400">
 <p>Flask Demo</p>
   
   
